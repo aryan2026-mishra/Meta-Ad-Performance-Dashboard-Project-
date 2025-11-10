@@ -99,9 +99,9 @@ This model links campaign data, ad performance metrics, and audience details for
 
 ## 👤 Author  
 **Aryan Mishra**  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub Profile](https://github.com/yourusername)
+📧 [aryanmishra01718@gmail.com]  
+💼 [LinkedIn Profile]([(https://www.linkedin.com/in/aryan-mishra-61561b298/)])  
+🐙 [GitHub Profile]((https://github.com/aryan2026-mishra))
 
 ---
 
