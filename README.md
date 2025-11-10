@@ -57,10 +57,10 @@ Easily analyze data by:
 ## 🖼️ Dashboard Previews  
 
 ### 🌐 Facebook Dashboard  
-![Facebook Dashboard](Screenshots/Facebook_Dashboard.png)
+![Facebook Dashboard]("E:\Power BI GFG\Fb nd Insta Analysis\Facebook.png")
 
 ### 📱 Instagram Dashboard  
-![Instagram Dashboard](Screenshots/Instagram_Dashboard.png)
+![Instagram Dashboard]("E:\Power BI GFG\Fb nd Insta Analysis\Instagram .png")
 
 ---
 
