@@ -1,91 +1,109 @@
-📊 Meta Ad Performance Dashboard
-🚀 Overview
+# 📊 Meta Ad Performance Dashboard
 
-The Meta Ad Performance Dashboard is an interactive data visualization project that provides deep insights into ad campaigns across Facebook and Instagram.
-Built using Microsoft Power BI, this dashboard helps marketers and analysts track key performance metrics, engagement trends, and audience behavior — all in one place.
+## 🚀 Overview  
+The **Meta Ad Performance Dashboard** is an interactive Power BI project that provides deep insights into ad campaigns across **Facebook** and **Instagram**.  
+It tracks key performance indicators like impressions, clicks, engagement, conversions, and audience demographics — helping marketers and analysts make data-driven decisions to optimize their ad strategies.
 
-📁 Project Files
+---
 
-This project includes:
+## 📝 Project Description  
+This Power BI dashboard visualizes Meta ad data across Facebook and Instagram.  
+It offers campaign-level insights into engagement, conversions, and audience behavior.  
+The project demonstrates skills in **Power BI, DAX, data modeling, and visualization design**, allowing users to monitor performance and discover trends that drive marketing success.
 
-Facebook Dashboard Page
+---
 
-Instagram Dashboard Page
+## 📁 Project Files  
+This project includes:  
+- **Facebook Dashboard Page**  
+- **Instagram Dashboard Page**  
+- **Calendar Tool Tips Page** for monthly and campaign-wise analysis  
 
-Calendar Tool Tips Page for monthly and campaign-wise analysis
+---
 
-🧠 Features
+## 🧠 Features  
 
-✅ Real-time Insights
-Monitor KPIs such as impressions, clicks, conversions, purchases, and engagement rates.
+✅ **Real-time Insights**  
+Monitor KPIs such as impressions, clicks, conversions, purchases, and engagement rates.  
 
-✅ Comprehensive Ad Metrics
-Impressions • Clicks • Comments • Purchases • Engagement • Shares
+✅ **Comprehensive Ad Metrics**  
+Impressions • Clicks • Comments • Purchases • Engagement • Shares  
 
-✅ Calculated KPIs
-CTR • ER • CR • PR • Avg. Budget per Campaign
+✅ **Calculated KPIs**  
+CTR • ER • CR • PR • Avg. Budget per Campaign  
 
-✅ Audience Analytics
-Clicks by Gender • Clicks by Age Group • Clicks by Country (Interactive Map)
+✅ **Audience Analytics**  
+Clicks by Gender • Clicks by Age Group • Clicks by Country (Interactive Map)  
 
-✅ Trends Visualization
-Weekly Click Trends • Hourly Click Trends • Monthly Performance Comparison
+✅ **Trends Visualization**  
+Weekly Click Trends • Hourly Click Trends • Monthly Performance Comparison  
 
-✅ Ad Type Analysis
-Compare performance across:
+✅ **Ad Type Analysis**  
+Compare performance across:  
+- Stories  
+- Video  
+- Carousel  
+- Image  
 
-Stories
+✅ **Dynamic Filters**  
+Easily analyze data by:  
+- Parameter (Clicks, Engagement, Impressions, etc.)  
+- Campaign Name  
+- Target Interests  
+- Month  
 
-Video
+---
 
-Carousel
+## 🖼️ Dashboard Previews  
 
-Image
+### 🌐 Facebook Dashboard  
+![Facebook Dashboard](Screenshots/Facebook_Dashboard.png)
 
-✅ Dynamic Filters
-Easily analyze data by:
+### 📱 Instagram Dashboard  
+![Instagram Dashboard](Screenshots/Instagram_Dashboard.png)
 
-Parameter (Clicks, Engagement, Impressions, etc.)
+---
 
-Campaign Name
+## 🧩 Data Modeling Overview  
+The dashboard is built using a **star schema** model connecting fact and dimension tables, enabling efficient filtering and performance tracking.  
+This model links campaign data, ad performance metrics, and audience details for flexible and scalable analysis.  
 
-Target Interests
+![Data Model](Screenshots/Data_Model.png)
 
-Month
+---
 
-🖼️ Dashboard Previews
+## 🛠️ Tools & Technologies  
+- **Power BI Desktop**  
+- **Microsoft Excel / CSV Dataset**  
+- **DAX (Data Analysis Expressions)**  
+- **Power Query Editor**  
+- **Data Modeling**  
+- **Interactive Visualizations**
 
-🌐 Facebook Dashboard
-📱 Instagram Dashboard
+---
 
-🛠️ Tools & Technologies
+## 📈 Insights & Findings  
+- Highest engagement rate achieved on **Instagram campaigns** compared to Facebook.  
+- **Women** have a higher click rate across both platforms.  
+- Optimal ad performance observed during **mid-day hours** and **weekends**.  
+- **Video Ads** perform best in engagement and CTR metrics.  
 
-Power BI Desktop
+---
 
-Microsoft Excel / CSV Dataset
+## ✨ Future Enhancements  
+- Integration with **Google Ads API** for multi-platform tracking.  
+- Real-time **Power BI Service dashboard** with scheduled refresh.  
+- Advanced predictive analysis using **Power BI AI visuals**.  
 
-DAX (Data Analysis Expressions)
+---
 
-Power Query Editor
+## 👤 Author  
+**Aryan Mishra**  
+📧 [your.email@example.com]  
+💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🐙 [GitHub Profile](https://github.com/yourusername)
 
-Data Modeling
+---
 
-Interactive Visualizations
-
-📈 Insights & Findings
-
-Highest engagement rate achieved on Instagram campaigns compared to Facebook.
-
-Women have a higher click rate across both platforms.
-
-Optimal ad performance observed during mid-day hours and weekends.
-
-Video Ads perform best in engagement and CTR metrics.
-
-✨ Future Enhancements
-
-Integration with Google Ads API for multi-platform tracking.
-
-Real-time Power BI Service dashboard with scheduled refresh.
-
-Advanced predictive analysis using Power BI AI visuals.
+## 🏷️ License  
+This project is licensed under the **MIT License** — feel free to use and modify it with proper attribution.
